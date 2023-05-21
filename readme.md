@@ -1,11 +1,3 @@
-# Curso Digital: Git/versionamento/teste
+# Curso Digital: Git\versionamento
 
-# Testando mudanças/teste
-
-# Outra tentativa
-
-## Mais um teste/diff
-
-# Mais um teste diferente
-
-# De novo mais uma vez novamente
+# Salvando modificações no Git
